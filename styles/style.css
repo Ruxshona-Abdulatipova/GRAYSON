@@ -150,10 +150,10 @@ ul {
 .header__content-link {
     width: 130px;
     height: 60px;
-    background: #FFF;
-    color: #000;
+    background: rgb(0, 0, 0);
+    color: rgb(122, 101, 182);
     font-family: 'PR';
-    font-size: 12px;
+    font-size: 20px;
     font-weight: 400;
     display: flex;
     justify-content: center;
